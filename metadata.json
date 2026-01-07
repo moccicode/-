@@ -1,0 +1,5 @@
+{
+  "name": "냉장고 파먹기 AI (Fridge Chef AI)",
+  "description": "식사 시간과 냉장고 속 재료를 기반으로 맞춤형 요리 레시피 3가지를 인공지능이 제안해줍니다.",
+  "requestFramePermissions": []
+}
